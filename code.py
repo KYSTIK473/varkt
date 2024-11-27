@@ -21,9 +21,9 @@ dt = 1
 
 def F(t):
     if t <= 101:
-        return 6075 * 1000  # в Н
+        return 6075 * 1000
     else:
-        return 2425 * 1000  # в Н
+        return 2425 * 1000
 
 
 
